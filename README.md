@@ -1,6 +1,6 @@
 # Flying Rover
 
-This project was bootstrapped with [Flying Rover](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Flying Rover](https://flying-rover.netlify.app/).
 
 ## About This Project
 * A drone shop for multi-segment customers
